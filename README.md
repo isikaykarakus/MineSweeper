@@ -9,10 +9,8 @@ This project leverages a SAT (Satisfiability) solver to systematically determine
 
 ## Features
 
-- Encodes the Minesweeper game state into logical constraints.
-- Uses the SAT solver Minisat22 to evaluate the constraints.
-- Determines whether each hidden cell contains a mine or is safe.
-- Provides a clear, modular, and structured implementation.
+- This project uses the SAT solver Minisat22 to evaluate the constraints and determine whether each hidden cell contains a mine or is safe.
+
 
 ## Requirements
 - Python 3.x
